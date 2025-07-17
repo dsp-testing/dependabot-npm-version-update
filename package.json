@@ -4,6 +4,6 @@
   "author": "dependabot",
   "dependencies": {
     "express": "4.18.2",
-    "react": "15.3.2"
+    "react": "15.5.2"
   }
 }
