@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "dependabot",
   "dependencies": {
-    "express": "4.1.1",
+    "express": "5.1.0",
     "react": "15.1.0"
   }
 }
