@@ -6,10 +6,10 @@ updates:
       interval: weekly
     ignore:
       - dependency-name: express
-        versions: "> 5.1.0"
+        versions: "> 6.0.0"
       - dependency-name: react
-        versions: "> 15.6.2"
-    groups:
-      npm-group:
-        patterns:
-          - "*"
+        versions: "> 16.0.0"
+    # groups:
+    #   npm-group:
+    #     patterns:
+    #       - "*"
